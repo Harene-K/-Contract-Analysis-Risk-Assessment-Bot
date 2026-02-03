@@ -1,0 +1,39 @@
+SERVICE AGREEMENT
+
+This Service Agreement (“Agreement”) is entered into on 1 January 2024
+between ABC Technologies Pvt Ltd, having its registered office at Bangalore,
+India (“Service Provider”) and XYZ Retail Solutions, Chennai, India (“Client”).
+
+1. Scope of Services
+The Service Provider shall provide software development and maintenance
+services to the Client as per mutually agreed timelines.
+
+2. Payment Terms
+The Client shall pay INR 5,00,000 within 30 days of invoice issuance.
+Late payments shall attract a penalty of 2% per month.
+
+3. Term and Termination
+This Agreement shall remain valid for 2 years.
+The Client may terminate this Agreement immediately without cause.
+The Service Provider shall not terminate without 90 days notice.
+
+4. Indemnity
+The Service Provider shall indemnify and hold harmless the Client against
+all losses, damages, claims, and liabilities arising from the services.
+
+5. Confidentiality
+Both parties shall maintain confidentiality of proprietary information
+for a period of 5 years after termination.
+
+6. Intellectual Property
+All intellectual property developed under this Agreement shall vest
+solely with the Client.
+
+7. Governing Law and Jurisdiction
+This Agreement shall be governed by the laws of India.
+Courts in Chennai shall have exclusive jurisdiction.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement.
+
+Service Provider: ABC Technologies Pvt Ltd
+Client: XYZ Retail Solutions
